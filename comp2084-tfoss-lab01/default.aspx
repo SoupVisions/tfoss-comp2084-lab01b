@@ -5,7 +5,7 @@
     <h1>Lab 01</h1>
 
     <div class="form-group">
-        <asp:Label ID="lblName" runat="server" Text="Name: " CssClass="col-sm-4"></asp:Label>
+        <asp:Label ID="lblName" runat="server" Text="First Name: " CssClass="col-sm-4"></asp:Label>
         <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
     </div>
 
